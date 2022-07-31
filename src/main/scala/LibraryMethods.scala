@@ -1,5 +1,3 @@
-package src.main.scala
-
 object LibraryMethods {
 
   trait SummableTrait[T] {

@@ -1,5 +1,3 @@
-package src.main.scala
-
 object TypeExample extends App {
   //Type declaration is a Scala feature that enables us to declare our own types.
   // Use for semantic only
@@ -17,3 +15,4 @@ object TypeExample extends App {
   }
 
 }
+//https://users.scala-lang.org/t/type-alias-vs-case-class-to-add-semantic-meaning-to-data-structures/5991/4

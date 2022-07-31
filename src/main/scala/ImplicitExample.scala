@@ -1,5 +1,3 @@
-package src.main.scala
-
 object ImplicitExample extends App {
   //Eg 1 - Custom Project methods
   implicit class customFunction(s: String) {

@@ -1,5 +1,3 @@
-package src.main.scala
-
 object VarianceExample extends App {
   trait Animal
   class Cat extends Animal
